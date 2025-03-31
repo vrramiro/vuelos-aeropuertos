@@ -1,4 +1,4 @@
-Validador de Inscripciones según Correlatividades
+<h1 align="center"> Validador de Inscripciones según Correlatividades <h1 align="center">
 
 Contexto
 Nos han solicitado el diseño y el desarrollo de un Validador de Inscripciones según materias correlativas.
