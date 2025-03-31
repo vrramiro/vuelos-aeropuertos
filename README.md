@@ -21,8 +21,8 @@ Inscripción
 
 • La inscripción se rechaza si al menos una materia no cumple con la condición de correlatividades
 
-Y teniendo como restricción que solamente se podrán utilizar, además de la clase Inscripción, la clase
-Materia y Alumno; se pide:
+Y teniendo como restricción que solamente se podrán utilizar, además de la clase <b> Inscripción </b>, la clase
+<b> Materia </b> y <b> Alumno </b>; se pide:
 
 1. Diseñar una solución en el Paradigma Orientado a Objetos y comunicar la solución mediante un
 Diagrama de Clases.
