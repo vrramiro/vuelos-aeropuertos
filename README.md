@@ -1,6 +1,7 @@
-<h1 align="center"> Validador de Inscripciones según Correlatividades <h1 align="center">
+<h1 align="center"> Validador de Inscripciones según Correlatividades </h1>
 
-Contexto
+<h3> Contexto: </h3>
+
 Nos han solicitado el diseño y el desarrollo de un Validador de Inscripciones según materias correlativas.
 En las carreras terciarias y universitarias, para ordenar el plan de estudios y asegurar que cuando se inicia
 una materia se tienen todos los conocimientos necesarios para entenderla, se establece lo que se llama
@@ -9,7 +10,8 @@ cursar la materia en cuestión. Por ejemplo, antes de cursar Diseño de Sistemas
 de Programación y antes de ésta hay que cursar Algoritmos y Estructuras de Datos, donde esta última no
 tiene correlativas.
 
-Consigna
+<h3> Consigna: </h3> 
+
 Teniendo en cuenta que:
 
 • El método principal del presente módulo debe ser el método “boolean aprobada()” de la clase
